@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "1042780548303",
+    "firebase_url": "https://murasaki7-93866556.firebaseio.com",
+    "project_id": "murasaki7-93866556",
+    "storage_bucket": "murasaki7-93866556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042780548303:android:835b60f7982a9064bddbba",
+        "android_client_info": {
+          "package_name": "com.chamoji.murasaki7qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042780548303-5468pnj8roo1p9fjoj42l8dhhklejmqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chamoji.murasaki7qa",
+            "certificate_hash": "7b41362f4f4aac9d5e720b7662377f38828eac5f"
+          }
+        },
+        {
+          "client_id": "1042780548303-lqp2vfgvro73a9fmtno54jh572h5l3tp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chamoji.murasaki7qa",
+            "certificate_hash": "7535473e82fb6287cf0f34761454fa7ee73ca2fe"
+          }
+        },
+        {
+          "client_id": "1042780548303-ag8u3i1didc1a8kiurns181ed0vcans6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_qi084Kc4P-457YiL4R623EOI1jf8wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042780548303-s5s7bv6j7frouk2r9tsoiju92l12jpc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1042780548303-rpelrj5pootj26jcno0f7iuu9g2oqhbi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chamoji.murasaki7qa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042780548303:android:323b3107c8658692bddbba",
+        "android_client_info": {
+          "package_name": "com.chamoji.murasaki7rpg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042780548303-6o4ck9jd47dld8ricdtthckqa8ehqhff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chamoji.murasaki7rpg",
+            "certificate_hash": "cc43115cf2b86b3f083639a4b661795381b412ac"
+          }
+        },
+        {
+          "client_id": "1042780548303-1iencnna6td9nlv6do13uf4nuuaphk62.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chamoji.murasaki7rpg",
+            "certificate_hash": "75b30d0fe134f2f6f02db85c3576baaf2de0c233"
+          }
+        },
+        {
+          "client_id": "1042780548303-ag8u3i1didc1a8kiurns181ed0vcans6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_qi084Kc4P-457YiL4R623EOI1jf8wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042780548303-s5s7bv6j7frouk2r9tsoiju92l12jpc1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1042780548303-rpelrj5pootj26jcno0f7iuu9g2oqhbi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chamoji.murasaki7qa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

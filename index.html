@@ -3,12 +3,11 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<title>Unity WebGL Player | Turnbase RPG Template</title>
+	<title>Unity WebGL Player | Murasaki7 QA</title>
     <link rel="shortcut icon" href="TemplateData/img/favicon.ico">
     <link rel="stylesheet" href="TemplateData/css/style.css">
 </head>
 <body>
-  
 	<div class="keepRatio">
 		<div id="gameContainer" class="unity-desktop webgl-content">
 			<button id="fullScreenButton" onclick="ToggleFullScreen()"></button>
@@ -136,15 +135,15 @@
 		var isChrome =  isIOSChrome || (isChromium !== null && typeof isChromium !== "undefined" && vendorName === "Google Inc." && isOpera === false && isIEedge === false);
 		
 		var buildUrl = "Build";
-		var loaderUrl = buildUrl + "/Build-Turnbase-RPG-Template.loader.js";
+		var loaderUrl = buildUrl + "/BGPuzzleAndHeroes.loader.js";
 		var config = {
-        dataUrl: buildUrl + "/Build-Turnbase-RPG-Template.data",
-        frameworkUrl: buildUrl + "/Build-Turnbase-RPG-Template.framework.js",
-        codeUrl: buildUrl + "/Build-Turnbase-RPG-Template.wasm",
+        dataUrl: buildUrl + "/BGPuzzleAndHeroes.data.unityweb",
+        frameworkUrl: buildUrl + "/BGPuzzleAndHeroes.framework.js.unityweb",
+        codeUrl: buildUrl + "/BGPuzzleAndHeroes.wasm.unityweb",
         streamingAssetsUrl: "StreamingAssets",
-        companyName: "DefaultCompany",
-        productName: "Turnbase RPG Template",
-        productVersion: "1.10",
+        companyName: "Chamoji",
+        productName: "Murasaki7 QA",
+        productVersion: "2.0.0",
       };
 
 		var container = document.querySelector("#gameContainer");
